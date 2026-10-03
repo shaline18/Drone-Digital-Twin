@@ -1,4 +1,4 @@
-Sure — you mean **plain text for the README**, not the Markdown file format/code block.
+
 
 **Drone Digital Twin – Flight, Environment & Health Monitoring**
 
